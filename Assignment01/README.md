@@ -1,4 +1,4 @@
-# 🎬 Movie Semantic Search Engine Roll no 221020456-Toshan kanwar
+# 🎬 Movie Semantic Search Engine Roll no 221020461 yogesh kumar nag
 
 ![Python](https://img.shields.io/badge/python-v3.9+-blue.svg)
 ![Tests](https://img.shields.io/badge/tests-7%2F7%20passing-brightgreen.svg)
@@ -136,17 +136,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE.t
 
 ## 👨‍💻 Contact Information
 
-**Developer**: Toshan Kanwar
-**Student ID**: [221020456]  
+**Developer**: yogesh kumar nag
+**Student ID**: [221020461]  
 **University**: IIIT Naya Raipur  
 **Course**: AI Systems Development  
 **Assignment**: Semantic Search Engine (Assignment 1)
 
-### 📧 Get in Touch
-- **Email**: contact@toshankanwar.website
-- **LinkedIn**: [https://www.linkedin.com/in/toshan-kanwar-4683a1349/](https://www.linkedin.com/in/toshan-kanwar-4683a1349/)
-- **GitHub**: [@toshankanwar](https://github.com/toshankanwar)
-- **Portfolio**: [https://toshankanwar.website](https://toshankanwar.website)
+
 
 ### 🎓 Academic Information
 - **Submission Date**: August 26, 2025
